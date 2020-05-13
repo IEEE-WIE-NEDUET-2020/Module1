@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "810934413694",
+    "firebase_url": "https://timetable-remainder-f8f2e.firebaseio.com",
+    "project_id": "timetable-remainder-f8f2e",
+    "storage_bucket": "timetable-remainder-f8f2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810934413694:android:9398403ada7d506257eb2f",
+        "android_client_info": {
+          "package_name": "com.example.timetableremainder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810934413694-kb9154slm9ug574dpbuma6c9u7rtt6jj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.timetableremainder",
+            "certificate_hash": "f3c58adf88b7c202f6ce1f53e109f95c98502a79"
+          }
+        },
+        {
+          "client_id": "810934413694-6mmjq8iiimtd7na2mui5so09mai4jede.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMrAMn0FR_E9xogKBrRIFWvD_gcM0zI5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810934413694-6mmjq8iiimtd7na2mui5so09mai4jede.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
